@@ -87,3 +87,8 @@ FoodNinja.kdev4
 FoodNinja.pro
 FoodNinjaSource.pri
 FoodNinja.workspace
+
+.ignore
+.kdev4/
+.vscode/
+CMakeLists.txt
