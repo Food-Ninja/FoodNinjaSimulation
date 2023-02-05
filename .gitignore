@@ -73,3 +73,17 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+
+# own
+FoodNinjaCodeCompletionFolders.txt
+FoodNinjaCodeLitePreProcessor.txt
+FoodNinja.code-workspace
+FoodNinjaConfig.pri
+FoodNinjaDefines.pri
+FoodNinjaHeader.pri
+FoodNinjaIncludes.pri
+FoodNinjaIncludes.pri
+FoodNinja.kdev4
+FoodNinja.pro
+FoodNinjaSource.pri
+FoodNinja.workspace
