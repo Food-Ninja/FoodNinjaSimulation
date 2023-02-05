@@ -92,3 +92,4 @@ FoodNinja.workspace
 .kdev4/
 .vscode/
 CMakeLists.txt
+Makefile
