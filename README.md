@@ -12,7 +12,7 @@ This repository includes the simulation enviroment used in our "*Towards a Knowl
 
 
 ### Packaged Version
-You can find a packaged Version of the Enviroment itself [here](https://seafile.zfn.uni-bremen.de/f/166270fc51fd4fe0acb4/).
+You can find a packaged Version of the Enviroment itself [here](https://seafile.zfn.uni-bremen.de/f/6b61c46c471d45b1b822/).
 
 **Disclaimer**:
 The packaged Version is technically only the enviroment with the robot. As there are many different components used in order to simulate the Robot and all of them need to be setup correctly (for example see setup instruction [URoboSim](https://github.com/urobosim/URoboSim/tree/1255d628a4a58c84d3903d4b31c9943c38676923)), we are not able to share a complete simulation enviroment. 
