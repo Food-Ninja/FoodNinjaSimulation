@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{000499B8-08DA-1193-1FBA-D8D425FC2FC1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FoodNinja",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

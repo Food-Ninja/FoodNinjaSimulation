@@ -1,0 +1,21 @@
+[submodule "Plugins/UTFPublisher"]
+	path = Plugins/UTFPublisher
+	url = git@github.com:robcog-iai/UTFPublisher.git
+[submodule "Plugins/UROSWorldControl"]
+	path = Plugins/UROSWorldControl
+	url = git@github.com:robcog-iai/UROSWorldControl.git
+[submodule "Plugins/UUtils"]
+	path = Plugins/UUtils
+	url = git@github.com:robcog-iai/UUtils.git
+[submodule "Plugins/URoboSim"]
+	path = Plugins/URoboSim
+	url = git@github.com:urobosim/URoboSim.git
+[submodule "Plugins/UROSBridge"]
+	path = Plugins/UROSBridge
+	url = git@github.com:robcog-iai/UROSBridge.git
+[submodule "Plugins/URoboVision"]
+	path = Plugins/URoboVision
+	url = git@github.com:robcog-iai/URoboVision.git
+[submodule "Plugins/UCutting"]
+	path = Plugins/UCutting
+	url = git@github.com:code-iai/UCutting.git
