@@ -20,7 +20,7 @@ The packaged Version is technically only the enviroment with the robot. As there
 Usage:
 To play around in the enviroment simply unzip the file provided and call the *sh* scripte located in the FoodNinja folder. 
 ```bash=
-unzip -xzf FoodNinja.zip
+unzip -xzf FoodNinjaGame.zip
 cd FoodNinja
 sh FoodNinja.sh
 ```
