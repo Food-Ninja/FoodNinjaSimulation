@@ -93,3 +93,6 @@ FoodNinja.workspace
 .vscode/
 CMakeLists.txt
 Makefile
+
+#Exlude bought meshes
+Content/FruitsVegetables_MEGAPACK
