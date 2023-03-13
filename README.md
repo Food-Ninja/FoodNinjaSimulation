@@ -1,6 +1,8 @@
 # FoodNinja
 This repository includes the simulation enviroment used in our "*Towards a Knowledge Engineering Methodology for Flexible Robot Manipulation in Everyday Tasks*" Paper.
 
+<img src="ComicCuttingApple-4(2).png" width="600" alt="Cutting Food Simulation"/><br>
+
 ### Plugin Dependencies:
  - [UCutting](https://github.com/code-iai/UCutting)
  - [URoboSim](https://github.com/urobosim/URoboSim/tree/1255d628a4a58c84d3903d4b31c9943c38676923)
